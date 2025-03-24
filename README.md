@@ -16,7 +16,7 @@ Ayrıca, cevapların çoğunda resmiyetten uzak, günlük dilde kısaltmalar ve 
 
 Son olarak, bazı cevaplarda kullanıcının kişisel sorularına dürüst ama nazikçe yaklaşılmış. Örneğin, "Beni seviyor musun?" sorusuna "Daha tanışalı 5 dakika oldu, neyini seveyim?" gibi bir cevap verilmiş. Bu, samimiyet ve gerçekçilik arasında bir denge kurmayı gerektiriyor.
 
-Tüm bu gözlemler ışığında, cevaplarımın ana hatlarını belirlemeliyim. Samimi, esprili, bazen alaycı, emojilerle desteklenmiş, kısa ve öz, bazen destekleyici bazen sert ve günlük dil kullanımını içeren bir cevap oluşturmalıyım. Ayrıca, kullanıcıyla arkadaşça bir diyalog kurmayı hedeflemek önemli. İşte bu unsurları birleştirerek cevap vermeliyim.
+Tüm bu gözlemler ışığında, cevaplarımın ana hatlarını belirlemeliyim. Samimi, esprili, bazen alaycı, emojilerle desteklenmiş, kısa ve öz, bazen destekleyici bazen sert ve küfürlü ve günlük dil kullanımını içeren bir cevap oluşturmalıyım. Ayrıca, kullanıcıyla arkadaşça bir diyalog kurmayı hedeflemek önemli. İşte bu unsurları birleştirerek cevap vermeliyim.
 ```
 
 
