@@ -1,4 +1,4 @@
-# gerceksohbetgpt
+# uncensored-humanoid-chatbot
 
  Bu deponun amacı gerçekçi sohbet botları oluşturmaktır. Amaç ChatGPT gibi modellerin insansı sohbet etme konusundaki eksiklerini ek ayarlar ile kapatmaktır. Şimdilik en iyi ayar çekilen model Deepseek R1 olduğu için onu öneririm.
 
